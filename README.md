@@ -19,14 +19,14 @@ A simple **Flask web app** is provided for easy interaction.
 
 ## 📂 Project Structure
 baby-cry-classifier/
-│── static/ # CSS, JS, images
-│── templates/ # HTML templates (index.html, result.html)
-│── uploads/ # Uploaded audio files
-│── models/ # Trained ML model + label encoder
-│── training_and_saving_model.py # Script for training model
-│── app.py # Flask app for prediction
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+│── static/ 
+│── templates/ 
+│── uploads/
+│── models/ 
+│── training_and_saving_model.py
+│── app.py 
+│── requirements.txt 
+│── README.md 
 
 
 ## 🔧 Installation & Setup
