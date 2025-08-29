@@ -52,8 +52,9 @@ python training_and_saving_model.py
 # 5. Run the Flask app
 python app.py
 
-## Now open your browser and go to:
+# Now open your browser and go to:
 http://127.0.0.1:5000
+```
 
 
 ## 🖼️ Usage
