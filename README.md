@@ -36,23 +36,30 @@ baby-cry-classifier/
    git clone https://github.com/your-username/baby-cry-classifier.git
    cd baby-cry-classifier
 2.Create a virtual environment (optional but recommended):
-python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
+```bash
+   python -m venv venv
+   source venv/bin/activate   # On Mac/Linux
+   venv\Scripts\activate      # On Windows
 3.Install dependencies:
-pip install -r requirements.txt
+  ```bash
+   pip install -r requirements.txt
 4.Train the model:
+```bash
 python training_and_saving_model.py
 5.Run the Flask app:
+```bash
 python app.py
 6.Open in your browser:
+```bash
 http://127.0.0.1:5000
 
 
 ## 🖼️ Usage
 
 Upload an audio file of a baby cry.
+
 The system processes the sound and predicts the cry reason.
+
 Output will be one of the following categories:
 
 🍼 Hungry
