@@ -1,4 +1,4 @@
-# 👶 Baby Cry Classifier (AI-powered Infant Cry Detection System)
+# Baby Cry Classifier (AI-powered Infant Cry Detection System)
 
 This project is an **AI-powered baby cry classification system** that detects the reason behind a baby's cry and classifies it into **five categories**:
 
