@@ -25,7 +25,6 @@ baby-cry-classifier/
 │── models/ 
 │── training_and_saving_model.py
 │── app.py 
-│── requirements.txt 
 │── README.md 
 
 
